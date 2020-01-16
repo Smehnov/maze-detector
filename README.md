@@ -1,4 +1,4 @@
-# nti-maze  
+# Maze detector with open-cv
 Program running by command  
 ```python3.6 app.py path_to_image```  
 ## Example of usage:  
